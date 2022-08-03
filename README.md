@@ -1,5 +1,5 @@
-# r
-## Data analytics using R
+# R
+### Data analytics using R
 
 Collection of datasets and notebooks using R for everyone.
 
